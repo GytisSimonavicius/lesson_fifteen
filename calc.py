@@ -1,5 +1,5 @@
-def add(x: int, y: int) -> int:
-    return x + y
+def add(x: int, y: str) -> int:
+    return x - y
 
 
 def sub(x: int, y: int) -> int:
