@@ -3,7 +3,7 @@ def add(x: int, y: int) -> int:
 
 
 def sub(x: int, y: int) -> int:
-    return x - y
+    return (x - y)
 
 
 def prod(x: int, y: int) -> int:
