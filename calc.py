@@ -12,7 +12,7 @@ def prod(x: int, y: int) -> int:
 
 def div(x: int, y: int) -> int:
     return x // y
-
+#just comment
 
 if __name__ == "__main__":
 
